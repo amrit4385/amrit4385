@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile! 🚀  
-I am Amritpal Singh, a Data Analyst with a passion for transforming raw data into actionable insights. Skilled in Power BI, SQL (MySQL & PostgreSQL), Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly), Excel, Alteryx, and Statistics, I thrive on uncovering patterns and driving data-driven decision-making.
+I am Amritpal Singh, a Data Analyst with a passion for transforming raw data into actionable insights. Skilled in Power BI, SQL (SQL Server, MySQL & PostgreSQL), Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly), Excel, and cloud platforms, such as AWS and Azure, I thrive on uncovering patterns and driving data-driven decision-making.
 
 My journey in data analytics began with my experience as a Senior Systems Engineer, where I worked as a Data Analyst in the retail and healthcare sectors. I am also certified in PMP and SAFe Scrum Master, which enhances my ability to lead and collaborate on data-driven projects.
 
