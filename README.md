@@ -11,24 +11,30 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
 ---
 
 ## My Toolkit 🛠️
-### **Data ETL & Visualization**
-- **Power BI**: Interactive dashboards and visualizations.
-- **MySQL**: Efficient database management.
-- **PostgreSQL**: Open-source relational database.
-- **Alteryx**: Automated analytics workflows.
-- **Excel**: The classic data tool.
-- **Statistics**: Advanced statistical analysis.
+### **Data ETL & Visualization** 
+- 💻 **Power BI**: Interactive dashboards and visualizations.
+- 🗂️ **MySQL**: Efficient database management.
+- 🐘 **PostgreSQL**: Open-source relational database.
+- 🗂️ **SQL Server**: Efficient database management.
+- 📊 **Excel**: The classic data tool.
+- 📈 **Statistics**: Advanced statistical analysis.
+
+---
 
 ### **Python Libraries for Data Analysis**
-- **NumPy**: Fast numerical computations.
-- **Pandas**: Data manipulation made simple.
-- **Matplotlib & Seaborn**: Beautiful visualizations.
-- **Plotly**: Interactive graphs.
+- 🐍 **Python 3**: Versatile programming language.
+- 📔 **Jupyter**: Live code and equations.
+- 🏗️ **NumPy**: Fast numerical computations.
+- 🐼 **Pandas**: Data manipulation made simple.
+- 📉 **Matplotlib & Seaborn**: Beautiful visualizations.
+- 📊 **Plotly**: Interactive graphs.
+
+---
 
 ### **Miscellaneous Tools**
-- **SSIS**: SQL Server Integreation Services.
-- **Azure Cloud**: Cloud computing and data storage.
-- **AWS Cloud**: Cloud computing and analytics service.
+- 🖥️ **SSIS**: SQL Server Integration Services.
+- ☁️ **Azure Cloud**: Cloud computing and storage.
+- 🌐 **AWS Cloud**: Cloud computing and analytics service.
 
 ---
 
