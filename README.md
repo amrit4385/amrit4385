@@ -27,8 +27,8 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
 
 ### **Miscellaneous Tools**
 - **SSIS**: SQL Server Integreation Services.
-- **Azure Cloud**: Cloud Service.
-- **AWS CLoud**: Cloud Service.
+- **Azure Cloud**: Cloud computing and data storage.
+- **AWS CLoud**: Cloud computing and analytics service.
 
 ---
 
