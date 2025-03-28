@@ -32,14 +32,7 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
 
 ---
 
-## About Me 🎯
-- **Professional Journey**: Started as a [Your Previous Role], now diving deep into data analysis, coding, and visualization.
-- **Education**: [Your Degree and Institution].
-- **Interests**: Data storytelling, interactive apps, and uncovering insights that drive decisions.
-
----
-
 ## Connect with Me 📬
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/amrit4385)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-red)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-red)](mailto:singhap211@gmail.com)
