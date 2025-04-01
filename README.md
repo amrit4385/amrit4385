@@ -38,13 +38,6 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
 
 ---
 
-## Connect with Me 📬
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/amrit4385)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-red)](mailto:singhap211@gmail.com)
-
----
-
 ## Projects:
 
 <table>
@@ -82,4 +75,11 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
     </td>
   </tr>
 </table>
+
+---
+
+## Connect with Me 📬
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/amrit4385)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-red)](mailto:singhap211@gmail.com)
 
