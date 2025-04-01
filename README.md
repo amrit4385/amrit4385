@@ -38,37 +38,48 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
 
 ---
 
+## Connect with Me 📬
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/amrit4385)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-red)](mailto:singhap211@gmail.com)
+
+---
+
 ## Projects:
 
 <table>
   <tr>
     <td width="40%">
-      <img src="https://your-image-link.com/adidas.png" width="100%" alt="Adidas US Sales EDA">
+      <img src="https://your-image-link.com/adidas.png" width="100%" alt="AtliQHardware: Sales & Finance Performance Analysis">
     </td>
     <td width="60%">
-      <h3><a href="https://your-project-link.com">Adidas US Sales EDA</a></h3>
+      <h3><a href="https://your-project-link.com">AtliQHardware: Sales & Finance Performance Analysis</a></h3>
       <p>
-        In this project, I conducted Exploratory Data Analysis (EDA) on Adidas US Sales data for FY 2020-21, focusing on Retailer Performance, Regional Sales Distribution, and Channel-specific Trends. Using MySQL for data cleaning & ETL, Python for EDA, and Power BI for dashboarding, the project uncovers key insights to identify growth opportunities and optimize strategies to drive operational profitability.
+        In this project, I explored AtliQ Hardware - Customer, Product and Market Performance data from 2019 to 2021. Using Microsoft Excel, I crafted key Sales and Finance Reports for strategic decision making, leveraging ETL methodologies, Power Query, Data Modelling, DAX and Pivot Tables.
       </p>
     </td>
   </tr>
   <tr>
     <td width="40%">
-      <img src="https://your-image-link.com/supplychain.png" width="100%" alt="Supply Chain Analysis">
+      <img src="https://your-image-link.com/supplychain.png" width="100%" alt="Consumer Goods Ad-Hoc Analysis">
     </td>
     <td width="60%">
-      <h3><a href="https://your-project-link.com">Supply Chain Analysis</a></h3>
+      <h3><a href="https://your-project-link.com">Consumer Goods Ad-Hoc Analysis</a></h3>
       <p>
-        In this project, I conducted Supply Chain Analysis for AtliQ Mart, monitoring KPIs like On-Time %, In-Full %, On-Time & In-Full %, Line Fill Rate %, Volume Fill Rate %, and Average Days of Delayed Delivery using Power BI. The report created provides insights across cities, product categories, and customers, enabling performance tracking, trend analysis, and optimization of supply chain efficiency.
+        In this project, I conducted an Ad Hoc Analysis on 5.3 million records of AtliQ Hardware from Sep 2019 to Aug 2021, revealing key Financial insights into Customer, Product and Market trends and generating Supply Chain Forecast Accuracy reports using MySQL Workbench. I also automated reporting using 12 Stored Procedures, 4 Database Views, 2 Functions and 2 Database Triggers, ensuring data integrity.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%">
+      <img src="https://your-image-link.com/supplychain.png" width="100%" alt="Business Insights 360">
+    </td>
+    <td width="60%">
+      <h3><a href="https://your-project-link.com">Business Insights 360</a></h3>
+      <p>
+        In this project I implemented meticulous ETL process on AtliQ Hardware's 1.8 million transaction records from FY 2019 to FY 2022 and crafted a multi-view report for comprehensive analysis across 5 critical business domains: Finance, Sales, Marketing, Supply Chain, and Executive using Power BI. By integrating key business metrics such as Net Sales, COGS, Gross Margin %, Net Profit % and Forecast Accuracy % the report offers a holistic view of AtliQ's performance.
       </p>
     </td>
   </tr>
 </table>
 
-
----
-
-## Connect with Me 📬
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/amrit4385)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-red)](mailto:singhap211@gmail.com)
