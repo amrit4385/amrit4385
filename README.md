@@ -38,6 +38,36 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
 
 ---
 
+## Projects:
+
+<table>
+  <tr>
+    <td width="40%">
+      <img src="https://your-image-link.com/adidas.png" width="100%" alt="Adidas US Sales EDA">
+    </td>
+    <td width="60%">
+      <h3><a href="https://your-project-link.com">Adidas US Sales EDA</a></h3>
+      <p>
+        In this project, I conducted Exploratory Data Analysis (EDA) on Adidas US Sales data for FY 2020-21, focusing on Retailer Performance, Regional Sales Distribution, and Channel-specific Trends. Using MySQL for data cleaning & ETL, Python for EDA, and Power BI for dashboarding, the project uncovers key insights to identify growth opportunities and optimize strategies to drive operational profitability.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%">
+      <img src="https://your-image-link.com/supplychain.png" width="100%" alt="Supply Chain Analysis">
+    </td>
+    <td width="60%">
+      <h3><a href="https://your-project-link.com">Supply Chain Analysis</a></h3>
+      <p>
+        In this project, I conducted Supply Chain Analysis for AtliQ Mart, monitoring KPIs like On-Time %, In-Full %, On-Time & In-Full %, Line Fill Rate %, Volume Fill Rate %, and Average Days of Delayed Delivery using Power BI. The report created provides insights across cities, product categories, and customers, enabling performance tracking, trend analysis, and optimization of supply chain efficiency.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+---
+
 ## Connect with Me 📬
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/amrit4385)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey)](https://yourportfolio.com)
