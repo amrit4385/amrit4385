@@ -50,10 +50,10 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
 <table>
   <tr>
     <td width="40%">
-      <img src="https://your-image-link.com/adidas.png" width="100%" alt="AtliQHardware: Sales & Finance Performance Analysis">
+      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/AtliQ%20Hardware%20-%20S%26F%20Analysis%20Project%20Thumbnail%2BIcon.png" width="100%" alt="AtliQHardware: Sales & Finance Performance Analysis">
     </td>
     <td width="60%">
-      <h3><a href="https://your-project-link.com">AtliQHardware: Sales & Finance Performance Analysis</a></h3>
+      <h3><a href="https://github.com/amrit4385/Excel-Sales_Analytics">AtliQHardware: Sales & Finance Performance Analysis</a></h3>
       <p>
         In this project, I explored AtliQ Hardware - Customer, Product and Market Performance data from 2019 to 2021. Using Microsoft Excel, I crafted key Sales and Finance Reports for strategic decision making, leveraging ETL methodologies, Power Query, Data Modelling, DAX and Pivot Tables.
       </p>
@@ -61,10 +61,10 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
   </tr>
   <tr>
     <td width="40%">
-      <img src="https://your-image-link.com/supplychain.png" width="100%" alt="Consumer Goods Ad-Hoc Analysis">
+      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/AH%20Consumer%20Goods%20-%20Ad%20Hoc%20Analysis%20Project%20Thumbnail%2BIcon.png" width="100%" alt="Consumer Goods Ad-Hoc Analysis">
     </td>
     <td width="60%">
-      <h3><a href="https://your-project-link.com">Consumer Goods Ad-Hoc Analysis</a></h3>
+      <h3><a href="https://github.com/amrit4385/Ad-Hoc-Insights">Consumer Goods Ad-Hoc Analysis</a></h3>
       <p>
         In this project, I conducted an Ad Hoc Analysis on 5.3 million records of AtliQ Hardware from Sep 2019 to Aug 2021, revealing key Financial insights into Customer, Product and Market trends and generating Supply Chain Forecast Accuracy reports using MySQL Workbench. I also automated reporting using 12 Stored Procedures, 4 Database Views, 2 Functions and 2 Database Triggers, ensuring data integrity.
       </p>
@@ -72,10 +72,10 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
   </tr>
   <tr>
     <td width="40%">
-      <img src="https://your-image-link.com/supplychain.png" width="100%" alt="Business Insights 360">
+      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/BI%20360%20Project%20Thumbnail%2BLogo.png" width="100%" alt="Business Insights 360">
     </td>
     <td width="60%">
-      <h3><a href="https://your-project-link.com">Business Insights 360</a></h3>
+      <h3><a href="https://github.com/amrit4385/Business_Insight_360">Business Insights 360</a></h3>
       <p>
         In this project I implemented meticulous ETL process on AtliQ Hardware's 1.8 million transaction records from FY 2019 to FY 2022 and crafted a multi-view report for comprehensive analysis across 5 critical business domains: Finance, Sales, Marketing, Supply Chain, and Executive using Power BI. By integrating key business metrics such as Net Sales, COGS, Gross Margin %, Net Profit % and Forecast Accuracy % the report offers a holistic view of AtliQ's performance.
       </p>
