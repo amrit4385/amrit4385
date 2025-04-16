@@ -10,31 +10,45 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
 
 ---
 
-## My Toolkit 🛠️
-### **Data ETL & Visualization** 
-- 💻 **Power BI**: Interactive dashboards and visualizations.
-- 🗂️ **MySQL**: Efficient database management.
-- 🐘 **PostgreSQL**: Open-source relational database.
-- 🗂️ **SQL Server**: Efficient database management.
-- 📊 **Excel**: The classic data tool.
-- 📈 **Statistics**: Advanced statistical analysis.
+## 🧰 My Toolkit
+
+### 🔄 **Data ETL & Integration**
+- ⚙️ **Azure Data Factory**: Scalable cloud-based ETL orchestration.
+- 📊 **Azure Synapse Analytics**: Unified analytics for big data and data warehousing.
+- 🛠️ **SSIS (SQL Server Integration Services)**: Robust data integration and transformation.
+- 🔄 **ETL Pipelines**: Automated end-to-end data workflows.
 
 ---
 
-### **Python Libraries for Data Analysis**
-- 🐍 **Python 3**: Versatile programming language.
-- 📔 **Jupyter**: Live code and equations.
-- 🏗️ **NumPy**: Fast numerical computations.
-- 🐼 **Pandas**: Data manipulation made simple.
-- 📉 **Matplotlib & Seaborn**: Beautiful visualizations.
-- 📊 **Plotly**: Interactive graphs.
+### 📊 **Data Visualization & Reporting**
+- 💻 **Power BI**: Interactive dashboards and insightful visualizations.
+- 📈 **Excel**: Versatile tool for data analysis, pivot tables, and dashboards.
+- 🧾 **SSRS (SQL Server Reporting Services)**: Enterprise-level paginated reports.
+- 🌐 **Plotly**: Interactive, web-based visualizations.
+- 📊 **Matplotlib & Seaborn**: Static and statistical visualizations in Python.
 
 ---
 
-### **Miscellaneous Tools**
-- 🖥️ **SSIS**: SQL Server Integration Services.
-- ☁️ **Azure Cloud**: Cloud computing and storage.
-- 🌐 **AWS Cloud**: Cloud computing and analytics service.
+### 🧠 **Data Modeling & Warehousing**
+- 🧮 **SSAS (SQL Server Analysis Services)**: Multidimensional modeling and OLAP.
+- 🗂️ **SQL Server**: Comprehensive RDBMS with BI capabilities.
+- 🐬 **MySQL**: Reliable open-source database management.
+- 🐘 **PostgreSQL**: Advanced open-source RDBMS.
+
+---
+
+### 🐍 **Python & Data Science**
+- 🐍 **Python 3**: Core language for scripting and analytics.
+- 📓 **Jupyter Notebook**: Interactive environment for coding and analysis.
+- 🐼 **Pandas**: High-performance data manipulation.
+- 🏗️ **NumPy**: Efficient numerical computing.
+- 📉 **Statistics**: Foundations for data interpretation and insights.
+
+---
+
+### ☁️ **Cloud & Miscellaneous Tools**
+- ☁️ **Azure Cloud**: Scalable computing and data services.
+- 🌐 **AWS Cloud**: Reliable cloud platform for analytics and storage.
 
 ---
 
