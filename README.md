@@ -74,6 +74,17 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="40%">
+      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/images.jpeg" width="100%" alt="Expense Management System">
+    </td>
+    <td width="60%">
+      <h3><a href="https://github.com/amrit4385/Expense-Management">Expense Management System</a></h3>
+      <p>
+        In this project, I built a full-stack Expense Management System using Python. The application allows users to track and manage their daily expenses with ease. I used FastAPI for backend APIs, Streamlit for the frontend, and MySQL for the database. Key features include adding/updating expenses, visual analytics by category and month, data export in CSV/Excel formats, and secure user authentication.
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
