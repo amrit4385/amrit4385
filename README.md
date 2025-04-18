@@ -79,7 +79,7 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
   </tr>
   <tr>
     <td width="40%">
-      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/BI%20360%20Project%20Thumbnail%2BLogo.png" width="100%" alt="Business Insights 360">
+      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/BI%20360%20Project%20Thumbnail%2BLogo%20(1)-Photoroom.png" alt="Business Insights 360">
     </td>
     <td width="60%">
       <h3><a href="https://github.com/amrit4385/Business_Insight_360">Business Insights 360</a></h3>
