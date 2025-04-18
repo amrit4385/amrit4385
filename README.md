@@ -68,7 +68,7 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
   </tr>
   <tr>
     <td width="40%">
-      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/AH%20Consumer%20Goods%20-%20Ad%20Hoc%20Analysis%20Project%20Thumbnail%2BIcon.png" width="100%" alt="Consumer Goods Ad-Hoc Analysis">
+      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/AH%20Consumer%20Goods%20-%20Ad%20Hoc%20Analysis%20Project%20Thumbnail%2BIcon%20(2)%20(1).png" width="100%" alt="Consumer Goods Ad-Hoc Analysis">
     </td>
     <td width="60%">
       <h3><a href="https://github.com/amrit4385/Ad-Hoc-Insights">Consumer Goods Ad-Hoc Analysis</a></h3>
