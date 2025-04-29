@@ -57,7 +57,7 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 40%; vertical-align: middle; padding: 10px;">
-      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/Atliq%20Hardware%20-%20S%26F%20Analysis%20Project%20Thumbnail%2BIcon.png" 
+      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/AtliQ%20Hardware%20-%20S%26F%20Analysis%20Project%20Thumbnail%2BIcon.png" 
            style="max-width: 100%; height: auto;" alt="AtliqHardware: Sales & Finance Performance Analysis">
     </td>
     <td style="width: 60%; vertical-align: middle; text-align: left; padding: 10px;">
