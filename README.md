@@ -101,7 +101,7 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
   </tr>
   <tr>
     <td width="40%">
-      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/AtliQ%20Hardware%20-%20S%26F%20Analysis%20Project%20Thumbnail%2BIcon.png" width="100%" alt="Mitron Bank - Credit Card Analysis">
+      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/Bank%20Image.jpg" width="100%" alt="Mitron Bank - Credit Card Analysis">
     </td>
     <td width="60%">
       <h3><a href="https://github.com/amrit4385/MitronBank-CreditInsight">Mitron Bank - Credit Card Analysis</a></h3>
