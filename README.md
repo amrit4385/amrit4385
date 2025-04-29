@@ -58,7 +58,7 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
   <tr>
     <td style="width: 40%; vertical-align: middle; padding: 10px;">
       <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/AtliQ%20Hardware%20-%20S%26F%20Analysis%20Project%20Thumbnail%2BIcon.png" 
-           style="max-width: 100%; height: auto;" alt="AtliqHardware: Sales & Finance Performance Analysis">
+           style="max-width: 100%; height: auto; display: block;" alt="AtliqHardware: Sales & Finance Performance Analysis">
     </td>
     <td style="width: 60%; vertical-align: middle; text-align: left; padding: 10px;">
       <h3><a href="https://github.com/amrit4385/Excel-Sales_Analytics">AtliqHardware: Sales & Finance Performance Analysis</a></h3>
@@ -70,47 +70,60 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
     </td>
   </tr>
   <tr>
-    <td width="40%">
-      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/AH%20Consumer%20Goods%20-%20Ad%20Hoc%20Analysis%20Project%20Thumbnail%2BIcon%20(2)%20(1).png" width="100%" alt="Consumer Goods Ad-Hoc Analysis">
+    <td style="width: 40%; vertical-align: middle; padding: 10px;">
+      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/AH%20Consumer%20Goods%20-%20Ad%20Hoc%20Analysis%20Project%20Thumbnail%2BIcon%20(2)%20(1).png" 
+           style="max-width: 100%; height: auto; display: block;" alt="Consumer Goods Ad-Hoc Analysis">
     </td>
-    <td width="60%">
+    <td style="width: 60%; vertical-align: middle; text-align: left; padding: 10px;">
       <h3><a href="https://github.com/amrit4385/Ad-Hoc-Insights">Consumer Goods Ad-Hoc Analysis</a></h3>
       <p>
-        In this project, I conducted an Ad Hoc Analysis on 5.3 million records of AtliQ Hardware from Sep 2019 to Aug 2021, revealing key Financial insights into Customer, Product and Market trends and generating Supply Chain Forecast Accuracy reports using MySQL Workbench. I also automated reporting using 12 Stored Procedures, 4 Database Views, 2 Functions and 2 Database Triggers, ensuring data integrity.
+        In this project, I conducted an Ad Hoc Analysis on 5.3 million records of AtliQ Hardware from Sep 2019 to Aug 2021, revealing key financial insights into 
+        Customer, Product, and Market trends. I generated Supply Forecast Accuracy reports using MySQL Workbench and automated reporting with 12 Stored Procedures, 
+        4 Database Views, 2 Functions, and 2 Database Triggers, ensuring data integrity.
       </p>
     </td>
   </tr>
   <tr>
-    <td width="40%">
-      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/BI%20360%20Project%20Thumbnail%2BLogo%20(1)-Photoroom.png" alt="Business Insights 360">
+    <td style="width: 40%; vertical-align: middle; padding: 10px;">
+      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/BI%20360%20Project%20Thumbnail%2BLogo%20(1)-Photoroom.png" 
+           style="max-width: 100%; height: auto; display: block;" alt="Business Insights 360">
     </td>
-    <td width="60%">
+    <td style="width: 60%; vertical-align: middle; text-align: left; padding: 10px;">
       <h3><a href="https://github.com/amrit4385/Business_Insight_360">Business Insights 360</a></h3>
       <p>
-        In this project I implemented meticulous ETL process on AtliQ Hardware's 1.8 million transaction records from FY 2019 to FY 2022 and crafted a multi-view report for comprehensive analysis across 5 critical business domains: Finance, Sales, Marketing, Supply Chain, and Executive using Power BI. By integrating key business metrics such as Net Sales, COGS, Gross Margin %, Net Profit % and Forecast Accuracy % the report offers a holistic view of AtliQ's performance.
+        In this project, I implemented a meticulous ETL process on AtliQ Hardware's 1.8 million transaction records from FY 2019 to FY 2022 
+        and crafted a multi-view report for comprehensive analysis across 5 critical business domains: Finance, Sales, Marketing, Supply Chain, 
+        and Executive using Power BI. By integrating key business metrics such as Net Sales, COGS, Gross Margin %, Net Profit %, and Forecast 
+        Accuracy %, the report offers a holistic view of AtliQ's performance.
       </p>
     </td>
   </tr>
   <tr>
-    <td width="40%">
-      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/images.jpeg" width="100%" alt="Expense Management System">
+    <td style="width: 40%; vertical-align: middle; padding: 10px;">
+      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/images.jpeg" 
+           style="max-width: 100%; height: auto; display: block;" alt="Expense Management System">
     </td>
-    <td width="60%">
+    <td style="width: 60%; vertical-align: middle; text-align: left; padding: 10px;">
       <h3><a href="https://github.com/amrit4385/Expense-Management">Expense Management System</a></h3>
       <p>
-        In this project, I built a full-stack Expense Management System using Python. The application allows users to track and manage their daily expenses with ease. I used FastAPI for backend APIs, Streamlit for the frontend, and MySQL for the database. Key features include adding/updating expenses, visual analytics by category and month, data export in CSV/Excel formats, and secure user authentication.
+        In this project, I built a full-stack Expense Management System using Python. The application allows users to track and manage their 
+        daily expenses with ease. I used FastAPI for backend APIs, Streamlit for the frontend, and MySQL for the database. Key features include 
+        adding/updating expenses, visual analytics by category and month, data export in CSV/Excel formats, and secure user authentication.
       </p>
     </td>
   </tr>
   <tr>
-    <td width="40%">
-      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/Bank%20Image.jpg" width="100%" alt="Mitron Bank - Credit Card Analysis">
+    <td style="width: 40%; vertical-align: middle; padding: 10px;">
+      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/Bank%20Image.jpg" 
+           style="max-width: 100%; height: auto; display: block;" alt="Mitron Bank - Credit Card Analysis">
     </td>
-    <td width="60%">
+    <td style="width: 60%; vertical-align: middle; text-align: left; padding: 10px;">
       <h3><a href="https://github.com/amrit4385/MitronBank-CreditInsight">Mitron Bank - Credit Card Analysis</a></h3>
       <p>
-        In this project, I analyzed customer demographics, income distribution, and spending behaviors for Mitron Bank, a legacy financial institution looking to launch a new line of credit cards. Using Microsoft Excel and Power BI, I performed data cleaning, transformation, and modeling with Power Query, ETL methodologies, and DAX to extract insights. The analysis was structured across five key areas—Demographic Overview, Income Analysis, Spending Trends, Additional Insights, and Executive View—helping refine credit card strategies to enhance adoption and optimize financial performance.
-    </p>
+        In this project, I analyzed customer demographics, income distribution, and spending trends for Mitron Bank’s credit card launch. 
+        Using Excel and Power BI, I applied data transformation and modeling with Power Query, ETL, and DAX to extract insights, refining 
+        strategies to boost adoption and optimize financial performance.
+      </p>
     </td>
   </tr>
 </table>
