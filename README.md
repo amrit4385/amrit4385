@@ -120,9 +120,11 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
     <td style="width: 60%; vertical-align: middle; text-align: left; padding: 10px;">
       <h3><a href="https://github.com/amrit4385/MitronBank-CreditInsight">Mitron Bank - Credit Card Analysis</a></h3>
       <p>
-        In this project, I analyzed customer demographics, income distribution, and spending trends for Mitron Bank’s credit card launch. 
-        Using Excel and Power BI, I applied data transformation and modeling with Power Query, ETL, and DAX to extract insights, refining 
-        strategies to boost adoption and optimize financial performance.
+        In this project, I analyzed customer demographics, income distribution, and spending behaviors for Mitron Bank, a legacy financial 
+        institution looking to launch a new line of credit cards. Using Microsoft Excel and Power BI, I performed data cleaning, transformation, 
+        and modeling with Power Query, ETL methodologies, and DAX to extract insights. The analysis was structured across five key areas—
+        Demographic Overview, Income Analysis, Spending Trends, Additional Insights, and Executive View—helping refine credit card strategies 
+        to enhance adoption and optimize financial performance.
       </p>
     </td>
   </tr>
