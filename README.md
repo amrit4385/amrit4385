@@ -99,6 +99,17 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="40%">
+      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/AtliQ%20Hardware%20-%20S%26F%20Analysis%20Project%20Thumbnail%2BIcon.png" width="100%" alt="Mitron Bank - Credit Card Analysis">
+    </td>
+    <td width="60%">
+      <h3><a href="https://github.com/amrit4385/MitronBank-CreditInsight">AtliQHardware: Sales & Finance Performance Analysis</a></h3>
+      <p>
+        In this project, I analyzed customer demographics, income distribution, and spending behaviors for Mitron Bank, a legacy financial institution looking to launch a new line of credit cards. Using Microsoft Excel and Power BI, I performed data cleaning, transformation, and modeling with Power Query, ETL methodologies, and DAX to extract insights. The analysis was structured across five key areas—Demographic Overview, Income Analysis, Spending Trends, Additional Insights, and Executive View—helping refine credit card strategies to enhance adoption and optimize financial performance.
+    </p>
+    </td>
+  </tr>
 </table>
 
 ---
