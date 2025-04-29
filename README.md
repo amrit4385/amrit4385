@@ -54,15 +54,18 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
 
 ## Projects:
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td width="40%">
-      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/AtliQ%20Hardware%20-%20S%26F%20Analysis%20Project%20Thumbnail%2BIcon.png" width="100%" alt="AtliQHardware: Sales & Finance Performance Analysis">
+    <td style="width: 40%; vertical-align: middle; padding: 10px;">
+      <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/Atliq%20Hardware%20-%20S%26F%20Analysis%20Project%20Thumbnail%2BIcon.png" 
+           style="max-width: 100%; height: auto;" alt="AtliqHardware: Sales & Finance Performance Analysis">
     </td>
-    <td width="60%">
-      <h3><a href="https://github.com/amrit4385/Excel-Sales_Analytics">AtliQHardware: Sales & Finance Performance Analysis</a></h3>
+    <td style="width: 60%; vertical-align: middle; text-align: left; padding: 10px;">
+      <h3><a href="https://github.com/amrit4385/Excel-Sales_Analytics">AtliqHardware: Sales & Finance Performance Analysis</a></h3>
       <p>
-        In this project, I explored AtliQ Hardware - Customer, Product and Market Performance data from 2019 to 2021. Using Microsoft Excel, I crafted key Sales and Finance Reports for strategic decision making, leveraging ETL methodologies, Power Query, Data Modelling, DAX and Pivot Tables.
+        In this project, I explored Atliq Hardware - Customer, Product and Market Performance data from 2019 to 2021. Using Microsoft Excel, 
+        I crafted key Sales and Finance Reports for strategic decision-making, leveraging ETL methodologies, Power Query, Data Modelling, 
+        DAX, and Pivot Tables.
       </p>
     </td>
   </tr>
