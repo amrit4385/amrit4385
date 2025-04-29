@@ -56,7 +56,7 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="width: 40%; vertical-align: top; padding: 10px;">
+    <td style="width: 60%; vertical-align: top; padding: 10px;">
       <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/AtliQ%20Hardware%20-%20S%26F%20Analysis%20Project%20Thumbnail%2BIcon.png" 
            style="max-width: 100%; height: auto; display: block;" alt="AtliqHardware: Sales & Finance Performance Analysis">
     </td>
@@ -70,7 +70,7 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
     </td>
   </tr>
   <tr>
-    <td style="width: 40%; vertical-align: top; padding: 10px;">
+    <td style="width: 60%; vertical-align: top; padding: 10px;">
       <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/AH%20Consumer%20Goods%20-%20Ad%20Hoc%20Analysis%20Project%20Thumbnail%2BIcon%20(2)%20(1).png" 
            style="max-width: 100%; height: auto; display: block;" alt="Consumer Goods Ad-Hoc Analysis">
     </td>
@@ -84,7 +84,7 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
     </td>
   </tr>
   <tr>
-    <td style="width: 40%; vertical-align: top; padding: 10px;">
+    <td style="width: 60%; vertical-align: top; padding: 10px;">
       <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/BI%20360%20Project%20Thumbnail%2BLogo%20(1)-Photoroom.png" 
            style="max-width: 100%; height: auto; display: block;" alt="Business Insights 360">
     </td>
@@ -99,7 +99,7 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
     </td>
   </tr>
   <tr>
-    <td style="width: 40%; vertical-align: top; padding: 10px;">
+    <td style="width: 60%; vertical-align: top; padding: 10px;">
       <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/images.jpeg" 
            style="max-width: 100%; height: auto; display: block;" alt="Expense Management System">
     </td>
@@ -113,7 +113,7 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
     </td>
   </tr>
   <tr>
-    <td style="width: 40%; vertical-align: top; padding: 10px;">
+    <td style="width: 60%; vertical-align: top; padding: 10px;">
       <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/Bank%20Image.jpg" 
            style="max-width: 100%; height: auto; display: block;" alt="Mitron Bank - Credit Card Analysis">
     </td>
