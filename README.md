@@ -56,11 +56,11 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="width: 40%; vertical-align: middle; padding: 10px;">
+    <td style="width: 40%; vertical-align: top; padding: 10px;">
       <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/AtliQ%20Hardware%20-%20S%26F%20Analysis%20Project%20Thumbnail%2BIcon.png" 
            style="max-width: 100%; height: auto; display: block;" alt="AtliqHardware: Sales & Finance Performance Analysis">
     </td>
-    <td style="width: 60%; vertical-align: middle; text-align: left; padding: 10px;">
+    <td style="width: 60%; vertical-align: top; text-align: left; padding: 10px;">
       <h3><a href="https://github.com/amrit4385/Excel-Sales_Analytics">AtliqHardware: Sales & Finance Performance Analysis</a></h3>
       <p>
         In this project, I explored Atliq Hardware - Customer, Product and Market Performance data from 2019 to 2021. Using Microsoft Excel, 
@@ -70,11 +70,11 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
     </td>
   </tr>
   <tr>
-    <td style="width: 40%; vertical-align: middle; padding: 10px;">
+    <td style="width: 40%; vertical-align: top; padding: 10px;">
       <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/AH%20Consumer%20Goods%20-%20Ad%20Hoc%20Analysis%20Project%20Thumbnail%2BIcon%20(2)%20(1).png" 
            style="max-width: 100%; height: auto; display: block;" alt="Consumer Goods Ad-Hoc Analysis">
     </td>
-    <td style="width: 60%; vertical-align: middle; text-align: left; padding: 10px;">
+    <td style="width: 60%; vertical-align: top; text-align: left; padding: 10px;">
       <h3><a href="https://github.com/amrit4385/Ad-Hoc-Insights">Consumer Goods Ad-Hoc Analysis</a></h3>
       <p>
         In this project, I conducted an Ad Hoc Analysis on 5.3 million records of AtliQ Hardware from Sep 2019 to Aug 2021, revealing key financial insights into 
@@ -84,11 +84,11 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
     </td>
   </tr>
   <tr>
-    <td style="width: 40%; vertical-align: middle; padding: 10px;">
+    <td style="width: 40%; vertical-align: top; padding: 10px;">
       <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/BI%20360%20Project%20Thumbnail%2BLogo%20(1)-Photoroom.png" 
            style="max-width: 100%; height: auto; display: block;" alt="Business Insights 360">
     </td>
-    <td style="width: 60%; vertical-align: middle; text-align: left; padding: 10px;">
+    <td style="width: 60%; vertical-align: top; text-align: left; padding: 10px;">
       <h3><a href="https://github.com/amrit4385/Business_Insight_360">Business Insights 360</a></h3>
       <p>
         In this project, I implemented a meticulous ETL process on AtliQ Hardware's 1.8 million transaction records from FY 2019 to FY 2022 
@@ -99,11 +99,11 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
     </td>
   </tr>
   <tr>
-    <td style="width: 40%; vertical-align: middle; padding: 10px;">
+    <td style="width: 40%; vertical-align: top; padding: 10px;">
       <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/images.jpeg" 
            style="max-width: 100%; height: auto; display: block;" alt="Expense Management System">
     </td>
-    <td style="width: 60%; vertical-align: middle; text-align: left; padding: 10px;">
+    <td style="width: 60%; vertical-align: top; text-align: left; padding: 10px;">
       <h3><a href="https://github.com/amrit4385/Expense-Management">Expense Management System</a></h3>
       <p>
         In this project, I built a full-stack Expense Management System using Python. The application allows users to track and manage their 
@@ -113,11 +113,11 @@ Feel free to explore my repositories, connect with me for collaborations, or jus
     </td>
   </tr>
   <tr>
-    <td style="width: 40%; vertical-align: middle; padding: 10px;">
+    <td style="width: 40%; vertical-align: top; padding: 10px;">
       <img src="https://github.com/amrit4385/amrit4385/blob/main/Pictures/Bank%20Image.jpg" 
            style="max-width: 100%; height: auto; display: block;" alt="Mitron Bank - Credit Card Analysis">
     </td>
-    <td style="width: 60%; vertical-align: middle; text-align: left; padding: 10px;">
+    <td style="width: 60%; vertical-align: top; text-align: left; padding: 10px;">
       <h3><a href="https://github.com/amrit4385/MitronBank-CreditInsight">Mitron Bank - Credit Card Analysis</a></h3>
       <p>
         In this project, I analyzed customer demographics, income distribution, and spending behaviors for Mitron Bank, a legacy financial 
